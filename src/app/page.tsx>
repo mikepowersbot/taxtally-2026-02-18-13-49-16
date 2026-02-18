@@ -1,0 +1,7 @@
+export default function Home() {
+  return <div>Test page</div>;
+}
+</parameter>
+</invoke>
+</function>
+</tool_call>
